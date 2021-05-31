@@ -1,0 +1,28 @@
+.header h1 {
+    font-family: Mate SC, serif;
+    color: #1FD9DD;
+    margin-left: 30px;
+}
+
+.main-searched-list {
+    background-color: #EFE9E9;
+    height: 400px;
+    width: 1100px;
+    border-radius: 10px;
+    margin-left: 30px;
+    box-shadow: 0 15px 60px rgba(0,0,0,0.3);
+}
+
+.main-searched-list h1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 35px;
+    margin-top: 48px;
+    color: #1FD9DD;
+}
+
+.search-box input {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
