@@ -1,5 +1,9 @@
 import React from 'react';
 
+
+// This page has not been implemented yet!
+
+
 function HomeCard({home}) {
     
     return (

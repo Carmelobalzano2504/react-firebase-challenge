@@ -61,13 +61,3 @@ export default function App() {
 }
 
 
-
-  // function handleSearchChange(event){
-  //   setSearchTerm(event.target.value);
-  // }
-
-  
-
-  //   function getRandomInt(max) {
-  //   return Math.floor(Math.random() * max);
-  // }
